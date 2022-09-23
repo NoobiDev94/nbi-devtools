@@ -5,6 +5,6 @@ Config.webhookIcon = 'https://media.discordapp.net/attachments/98780367289543483
 Config.webhookBottomText = 'Anti-DevTools System '
 Config.webhookColor = 16431885
 Config.punish = 2 -- 1 Banir | 2 Kick | 3 Kick e prisão
-Config.datatableName = "vRP:prisao"
+Config.datatableName = "vRP:prisao" -- Nome que sua framework usa na tabela datatable para salvar o tempo de prisão dos players. (Se não souber deixe o padrão)
 Config.timeJail = 360 -- Tempo de prisão sendo 1 igual 1 minuto fora do jogo.
 
